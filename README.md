@@ -1,3 +1,7 @@
+Miles Cresci Rock Paper Scissors React Edition Extra Credit
+4/13/2025
+Time: 5 hours
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
